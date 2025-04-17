@@ -1,0 +1,23 @@
+
+0. venn diagram
+ a. python code to create the three defined sets that are consistent with diagram
+ b. code to manipulate original sets that give following results:
+  i. {i,j} [all three]
+  ii. {a,b,c} [blue no overlap]
+  iii. {i,j,n,o,p} [green and red overlap]
+  iv. {d} [only red and blue overlap, no green]
+  v. {k,l,m,n,o,p} [green overlap with red or blue]
+
+1. names of computer science and math majors
+ a. all math-cs double majors
+ b. all people majoring in math or cs
+ c. all people who are strictly cs majors
+
+2. student years; 1=freshman, 2=sophomore, 3=junior, 4=senior
+ a. all sophomore level cs majors
+ b. all freshmen not majoring in math or cs
+ c. all senior math and cs majors
+
+
+
+
