@@ -11,6 +11,7 @@ def mathmajors():
             continue
         line=line.strip().replace(","," ")
         m.add(line)
+    infile.close()
     return m
 
 
@@ -24,6 +25,7 @@ def csmajors():
             continue
         line=line.strip().replace(","," ")
         c.add(line)
+    infile.close()
     return c
 
 # print(mathmajors())
